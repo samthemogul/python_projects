@@ -1,0 +1,1093 @@
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: Functional Result: FAIL Description: Diode current capacity
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: Performance Result: PASS Description: Response time
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: Performance Result: PASS Description: Knob and dial sensitivity
+Test Type: Functional Result: FAIL Description: Weight check
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Functional Result: PASS Description: Regression test
+Test Type: Performance Result: PASS Description: User navigation
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: Functional Result: FAIL Description: Check for gas leakage
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: Functional Result: PASS Description: Regression test
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: Functional Result: PASS Description: Regression test
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: Functional Result: FAIL Description: Diode current capacity
+Test Type: System Result: PASS Description: Animal testing
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Performance Result: PASS Description: Fluid levels
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: System Result: PASS Description: Animal testing
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: Functional Result: PASS Description: Weight check
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: Functional Result: PASS Description: Check for gas leakage
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: System Result: PASS Description: New components integration
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: System Result: FAIL Description: New components integration
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Functional Result: FAIL Description: Weight check
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: Functional Result: PASS Description: Regression test
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: Performance Result: PASS Description: User navigation
+Test Type: System Result: PASS Description: Animal testing
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: System Result: PASS Description: New components integration
+Test Type: Functional Result: PASS Description: Regression test
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: Functional Result: PASS Description: Rain check
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Functional Result: PASS Description: Regression test
+Test Type: System Result: PASS Description: Animal testing
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Functional Result: FAIL Description: Diode current capacity
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: Functional Result: FAIL Description: Diode current capacity
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: Functional Result: PASS Description: Regression test
+Test Type: Functional Result: PASS Description: Rain check
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Functional Result: PASS Description: Weight check
+Test Type: Functional Result: PASS Description: Check for gas leakage
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: System Result: PASS Description: End to end integration
+Test Type: System Result: PASS Description: New components integration
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: Performance Result: PASS Description: Check temperature of room
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: Performance Result: PASS Description: Response time
+Test Type: System Result: PASS Description: Animal testing
+Test Type: Performance Result: PASS Description: Check temperature of room
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: Functional Result: FAIL Description: Check for gas leakage
+Test Type: Functional Result: PASS Description: Rain check
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Functional Result: FAIL Description: Weight check
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: System Result: PASS Description: End to end integration
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Performance Result: PASS Description: User navigation
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: System Result: PASS Description: New components integration
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: Performance Result: PASS Description: Fluid levels
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Functional Result: FAIL Description: Weight check
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Functional Result: PASS Description: Rain check
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Performance Result: PASS Description: Fluid levels
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: System Result: FAIL Description: Lifecycle use test
+Test Type: Functional Result: FAIL Description: Weight check
+Test Type: Performance Result: FAIL Description: Burn-in timing
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: Performance Result: PASS Description: Knob and dial sensitivity
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: Functional Result: FAIL Description: Rain check
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: Functional Result: PASS Description: Rain check
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: System Result: PASS Description: End to end integration
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: Functional Result: FAIL Description: Diode current capacity
+Test Type: Performance Result: PASS Description: Response time
+Test Type: Functional Result: FAIL Description: Weight check
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: Functional Result: FAIL Description: Diode current capacity
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Performance Result: FAIL Description: Burn-in timing
+Test Type: Functional Result: PASS Description: Rain check
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Functional Result: PASS Description: Check for gas leakage
+Test Type: Functional Result: FAIL Description: Diode current capacity
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: Functional Result: PASS Description: Check for gas leakage
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Performance Result: PASS Description: Fluid levels
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: System Result: PASS Description: Animal testing
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: Performance Result: PASS Description: Knob and dial sensitivity
+Test Type: System Result: PASS Description: New components integration
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: System Result: PASS Description: Animal testing
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: System Result: PASS Description: End to end integration
+Test Type: System Result: FAIL Description: Lifecycle use test
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: Performance Result: FAIL Description: Burn-in timing
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Functional Result: PASS Description: Regression test
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: Functional Result: PASS Description: Check for gas leakage
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: System Result: PASS Description: End to end integration
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: Performance Result: PASS Description: Response time
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: System Result: PASS Description: Animal testing
+Test Type: System Result: PASS Description: Animal testing
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: Performance Result: PASS Description: Response time
+Test Type: Performance Result: PASS Description: User navigation
+Test Type: System Result: PASS Description: New components integration
+Test Type: System Result: PASS Description: New components integration
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: System Result: PASS Description: New components integration
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: Functional Result: FAIL Description: Weight check
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: System Result: PASS Description: Animal testing
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: Functional Result: PASS Description: Rain check
+Test Type: Performance Result: PASS Description: Check temperature of room
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: System Result: PASS Description: Animal testing
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Functional Result: FAIL Description: Diode current capacity
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: Performance Result: PASS Description: Knob and dial sensitivity
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: Performance Result: PASS Description: User navigation
+Test Type: Functional Result: FAIL Description: Check for gas leakage
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: System Result: PASS Description: Animal testing
+Test Type: Functional Result: FAIL Description: Check for gas leakage
+Test Type: Functional Result: FAIL Description: Rain check
+Test Type: Functional Result: FAIL Description: Check for gas leakage
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: System Result: PASS Description: New components integration
+Test Type: Functional Result: FAIL Description: Rain check
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: System Result: PASS Description: New components integration
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: Performance Result: PASS Description: Response time
+Test Type: Functional Result: FAIL Description: Check for gas leakage
+Test Type: Functional Result: FAIL Description: Weight check
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Performance Result: PASS Description: Check temperature of room
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: System Result: PASS Description: End to end integration
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: Functional Result: PASS Description: Rain check
+Test Type: Performance Result: PASS Description: User navigation
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Performance Result: PASS Description: Response time
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Functional Result: PASS Description: Rain check
+Test Type: Performance Result: PASS Description: Knob and dial sensitivity
+Test Type: System Result: PASS Description: Animal testing
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Performance Result: FAIL Description: Burn-in timing
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: Functional Result: PASS Description: Regression test
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: Performance Result: FAIL Description: Burn-in timing
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: System Result: PASS Description: End to end integration
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Functional Result: FAIL Description: Check for gas leakage
+Test Type: Functional Result: PASS Description: Rain check
+Test Type: Performance Result: PASS Description: Fluid levels
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: Functional Result: PASS Description: Rain check
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Functional Result: PASS Description: Weight check
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: Performance Result: FAIL Description: Burn-in timing
+Test Type: Functional Result: FAIL Description: Check for gas leakage
+Test Type: Functional Result: FAIL Description: Rain check
+Test Type: Performance Result: PASS Description: Check temperature of room
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: Functional Result: FAIL Description: Weight check
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Performance Result: PASS Description: Knob and dial sensitivity
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: System Result: PASS Description: Animal testing
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: System Result: PASS Description: End to end integration
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Functional Result: FAIL Description: Weight check
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: System Result: FAIL Description: Lifecycle use test
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Functional Result: PASS Description: Check for gas leakage
+Test Type: Functional Result: FAIL Description: Rain check
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: System Result: PASS Description: Animal testing
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: System Result: PASS Description: New components integration
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: System Result: PASS Description: New components integration
+Test Type: Performance Result: FAIL Description: Burn-in timing
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: System Result: PASS Description: New components integration
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Functional Result: PASS Description: Rain check
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: System Result: PASS Description: New components integration
+Test Type: Functional Result: FAIL Description: Weight check
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: System Result: PASS Description: End to end integration
+Test Type: System Result: PASS Description: New components integration
+Test Type: System Result: FAIL Description: Lifecycle use test
+Test Type: Performance Result: PASS Description: Response time
+Test Type: System Result: PASS Description: New components integration
+Test Type: Functional Result: PASS Description: Weight check
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: Functional Result: PASS Description: Rain check
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: Performance Result: PASS Description: Response time
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Functional Result: PASS Description: Regression test
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: Performance Result: PASS Description: Check temperature of room
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: Performance Result: PASS Description: Fluid levels
+Test Type: System Result: PASS Description: Animal testing
+Test Type: System Result: FAIL Description: Lifecycle use test
+Test Type: Functional Result: FAIL Description: Weight check
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Performance Result: PASS Description: User navigation
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Performance Result: FAIL Description: Burn-in timing
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: Functional Result: PASS Description: Rain check
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: Functional Result: FAIL Description: Weight check
+Test Type: Functional Result: FAIL Description: Check for gas leakage
+Test Type: System Result: PASS Description: End to end integration
+Test Type: System Result: PASS Description: New components integration
+Test Type: Functional Result: PASS Description: Check for gas leakage
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Functional Result: PASS Description: Check for gas leakage
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Performance Result: FAIL Description: Burn-in timing
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Performance Result: PASS Description: User navigation
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: Functional Result: PASS Description: Weight check
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: Functional Result: FAIL Description: Diode current capacity
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: Performance Result: PASS Description: User navigation
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: System Result: PASS Description: New components integration
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: System Result: PASS Description: Animal testing
+Test Type: System Result: PASS Description: New components integration
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Functional Result: FAIL Description: Rain check
+Test Type: System Result: PASS Description: Animal testing
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Functional Result: PASS Description: Weight check
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Functional Result: FAIL Description: Check for gas leakage
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: Performance Result: PASS Description: Response time
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: Performance Result: PASS Description: Knob and dial sensitivity
+Test Type: Functional Result: PASS Description: Rain check
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: Functional Result: PASS Description: Check for gas leakage
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: Functional Result: FAIL Description: Diode current capacity
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: System Result: PASS Description: New components integration
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Functional Result: PASS Description: Weight check
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: System Result: PASS Description: New components integration
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: Performance Result: PASS Description: Fluid levels
+Test Type: Performance Result: PASS Description: User navigation
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: System Result: FAIL Description: Lifecycle use test
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: Functional Result: FAIL Description: Rain check
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Functional Result: PASS Description: Check for gas leakage
+Test Type: System Result: PASS Description: End to end integration
+Test Type: System Result: PASS Description: New components integration
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Functional Result: PASS Description: Weight check
+Test Type: Performance Result: FAIL Description: Burn-in timing
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: Performance Result: PASS Description: Fluid levels
+Test Type: Performance Result: PASS Description: Check temperature of room
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: System Result: PASS Description: New components integration
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Functional Result: FAIL Description: Check for gas leakage
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: System Result: PASS Description: Animal testing
+Test Type: Functional Result: PASS Description: Rain check
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: Performance Result: PASS Description: User navigation
+Test Type: System Result: PASS Description: Animal testing
+Test Type: System Result: PASS Description: Animal testing
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Functional Result: PASS Description: Check for gas leakage
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: Performance Result: FAIL Description: Burn-in timing
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Performance Result: PASS Description: Check temperature of room
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: System Result: PASS Description: Animal testing
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: Functional Result: FAIL Description: Rain check
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Functional Result: PASS Description: Regression test
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: Performance Result: PASS Description: Fluid levels
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: Functional Result: FAIL Description: Diode current capacity
+Test Type: Performance Result: FAIL Description: Burn-in timing
+Test Type: Functional Result: FAIL Description: Diode current capacity
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Functional Result: PASS Description: Check for gas leakage
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: Functional Result: FAIL Description: Diode current capacity
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: Functional Result: PASS Description: Rain check
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Functional Result: FAIL Description: Check for gas leakage
+Test Type: System Result: PASS Description: New components integration
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: Performance Result: PASS Description: Knob and dial sensitivity
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: Functional Result: FAIL Description: Check for gas leakage
+Test Type: System Result: PASS Description: Animal testing
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: System Result: FAIL Description: Lifecycle use test
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: System Result: PASS Description: End to end integration
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Performance Result: PASS Description: Knob and dial sensitivity
+Test Type: Performance Result: FAIL Description: Burn-in timing
+Test Type: System Result: FAIL Description: Lifecycle use test
+Test Type: Functional Result: PASS Description: Check for gas leakage
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Performance Result: PASS Description: Knob and dial sensitivity
+Test Type: System Result: PASS Description: New components integration
+Test Type: Functional Result: FAIL Description: Diode current capacity
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: System Result: PASS Description: End to end integration
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Functional Result: PASS Description: Weight check
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: Performance Result: PASS Description: Knob and dial sensitivity
+Test Type: Performance Result: PASS Description: User navigation
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: System Result: PASS Description: Animal testing
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: Performance Result: PASS Description: User navigation
+Test Type: Functional Result: PASS Description: Check for gas leakage
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: System Result: FAIL Description: Lifecycle use test
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: Performance Result: PASS Description: Response time
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Functional Result: FAIL Description: Check for gas leakage
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: Performance Result: PASS Description: Response time
+Test Type: System Result: PASS Description: New components integration
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: System Result: PASS Description: New components integration
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: Functional Result: FAIL Description: Check for gas leakage
+Test Type: System Result: PASS Description: New components integration
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: Functional Result: FAIL Description: Weight check
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Performance Result: PASS Description: Knob and dial sensitivity
+Test Type: System Result: PASS Description: New components integration
+Test Type: Performance Result: PASS Description: User navigation
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: Functional Result: PASS Description: Weight check
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: Functional Result: PASS Description: Weight check
+Test Type: System Result: PASS Description: New components integration
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: Functional Result: FAIL Description: Diode current capacity
+Test Type: Functional Result: PASS Description: Regression test
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: Performance Result: FAIL Description: Burn-in timing
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: Performance Result: PASS Description: User navigation
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: Performance Result: PASS Description: Check temperature of room
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: Functional Result: PASS Description: Regression test
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: Functional Result: PASS Description: Check for gas leakage
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Functional Result: FAIL Description: Diode current capacity
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: System Result: PASS Description: Animal testing
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Functional Result: FAIL Description: Rain check
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: System Result: FAIL Description: Lifecycle use test
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: Functional Result: FAIL Description: Rain check
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Performance Result: PASS Description: Fluid levels
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Functional Result: PASS Description: Regression test
+Test Type: Performance Result: PASS Description: Fluid levels
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: System Result: PASS Description: End to end integration
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: System Result: PASS Description: New components integration
+Test Type: Performance Result: PASS Description: Check temperature of room
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: Functional Result: FAIL Description: Check for gas leakage
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Functional Result: FAIL Description: Check for gas leakage
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: System Result: PASS Description: End to end integration
+Test Type: System Result: FAIL Description: Lifecycle use test
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: System Result: PASS Description: End to end integration
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Functional Result: FAIL Description: Weight check
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: Functional Result: FAIL Description: Rain check
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: Functional Result: FAIL Description: Check for gas leakage
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: Functional Result: FAIL Description: Weight check
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: Performance Result: PASS Description: User navigation
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: Functional Result: FAIL Description: Rain check
+Test Type: System Result: FAIL Description: New components integration
+Test Type: System Result: PASS Description: Animal testing
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: System Result: FAIL Description: Lifecycle use test
+Test Type: Functional Result: PASS Description: Regression test
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: System Result: PASS Description: New components integration
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Functional Result: PASS Description: Rain check
+Test Type: System Result: PASS Description: Animal testing
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: Functional Result: FAIL Description: Regression test
+Test Type: Performance Result: PASS Description: Response time
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: Functional Result: PASS Description: Regression test
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: Functional Result: PASS Description: Check for gas leakage
+Test Type: System Result: PASS Description: New components integration
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: System Result: FAIL Description: New components integration
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: Functional Result: FAIL Description: Weight check
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Functional Result: PASS Description: Diode current capacity
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: Performance Result: PASS Description: Knob and dial sensitivity
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: System Result: FAIL Description: Lifecycle use test
+Test Type: System Result: PASS Description: Animal testing
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Functional Result: FAIL Description: Diode current capacity
+Test Type: Performance Result: FAIL Description: Burn-in timing
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: System Result: PASS Description: New components integration
+Test Type: Functional Result: FAIL Description: Diode current capacity
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: Performance Result: PASS Description: Knob and dial sensitivity
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: Functional Result: FAIL Description: Rain check
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: Performance Result: PASS Description: Check temperature of room
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: System Result: PASS Description: End to end integration
+Test Type: System Result: PASS Description: Animal testing
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: System Result: FAIL Description: Lifecycle use test
+Test Type: Functional Result: FAIL Description: Fuzz testing
+Test Type: Functional Result: PASS Description: Regression test
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: Performance Result: PASS Description: Knob and dial sensitivity
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: Functional Result: FAIL Description: Weight check
+Test Type: System Result: PASS Description: Animal testing
+Test Type: Performance Result: PASS Description: Knob and dial sensitivity
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Functional Result: FAIL Description: Weight check
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Performance Result: PASS Description: Crash test
+Test Type: System Result: FAIL Description: End to end integration
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: System Result: PASS Description: New components integration
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Performance Result: FAIL Description: Burn-in timing
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: System Result: FAIL Description: Lifecycle use test
+Test Type: Performance Result: PASS Description: Response time
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: Performance Result: PASS Description: User navigation
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: System Result: FAIL Description: New components integration
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Functional Result: PASS Description: Rain check
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: Functional Result: FAIL Description: Rain check
+Test Type: System Result: FAIL Description: User walkthrough
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: Performance Result: FAIL Description: Burn-in timing
+Test Type: System Result: PASS Description: End to end integration
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: System Result: PASS Description: End to end integration
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: Performance Result: PASS Description: Check temperature of room
+Test Type: Functional Result: PASS Description: Pipe fit test
+Test Type: Performance Result: FAIL Description: Burn-in timing
+Test Type: Performance Result: PASS Description: Burn-in timing
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Functional Result: FAIL Description: Pipe fit test
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: System Result: FAIL Description: Animal testing
+Test Type: System Result: FAIL Description: Lifecycle use test
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Functional Result: FAIL Description: Electronics cosmic ray robustness
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: System Result: PASS Description: New components integration
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: Functional Result: PASS Description: Fuzz testing
+Test Type: System Result: PASS Description: Lifecycle use test
+Test Type: Performance Result: FAIL Description: Burn-in timing
+Test Type: System Result: FAIL Description: End to end flow to check all components
+Test Type: Functional Result: PASS Description: Delays at specific components
+Test Type: Functional Result: PASS Description: Electronics cosmic ray robustness
+Test Type: Performance Result: PASS Description: Check temperature of room
+Test Type: Performance Result: PASS Description: Fluid levels
+Test Type: Performance Result: FAIL Description: Knob and dial sensitivity
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: Functional Result: FAIL Description: Diode current capacity
+Test Type: Performance Result: FAIL Description: Component wear testing
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: System Result: PASS Description: User walkthrough
+Test Type: System Result: PASS Description: End to end integration
+Test Type: Performance Result: FAIL Description: Crash test
+Test Type: Performance Result: PASS Description: User navigation
+Test Type: Performance Result: FAIL Description: Fluid levels
+Test Type: Performance Result: PASS Description: Component wear testing
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Performance Result: PASS Description: Check temperature of room
+Test Type: Performance Result: PASS Description: standalone component check
+Test Type: System Result: FAIL Description: Lifecycle use test
+Test Type: Performance Result: FAIL Description: Response time
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Performance Result: FAIL Description: Check temperature of room
+Test Type: Functional Result: PASS Description: Check for gas leakage
+Test Type: Functional Result: FAIL Description: Rain check

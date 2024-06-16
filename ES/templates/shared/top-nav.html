@@ -1,0 +1,23 @@
+<nav class="bg-blue-600 text-white font-medium pt-1 pb-2">
+  <div class="mx-auto max-w-screen-xl px-4 py-1 sm:px-6 lg:px-8">
+    <div class="flex items-center justify-center gap-4">
+      <div class="flex-column italic items-center justify-center max-h-10">
+        <h1 class="font-bold text-lg -my-1">FakeKart</h1>
+        <div class="text-xs font-normal">Explore <span class="text-yellow-300 font-bold">Plus+</span></div>
+      </div>
+      <form class="w-5/12" action="/search">
+        <input
+          class="text-gray-900 text-sm font-normal w-full -mr-10 border-none rounded-sm shadow-sm "
+          type="search"
+          name="q"
+          placeholder="Search for products, brands, and more"
+          {% if params and params.q %} value="{{  params.q }}" {% endif %}>
+        <input type="submit" value="🔍"></input>
+      </form>
+      <button class="bg-white py-1 px-10 text-blue-600 rounded-sm">Login</button>
+      <a class="px-4" href="#">Become a Seller</a>
+      <div class="px-4 flex gap-1 justify-center w-10"><span>More</span> <span class="text-xl -my-2">˯</span></div>
+      <div class="px-4">🛒 Cart</div>
+    </div>
+  </div>
+</nav>

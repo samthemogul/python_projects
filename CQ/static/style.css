@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+    background: rgb(236, 236, 236);
+}
+body h3 {
+    color: rgb(87, 87, 87);
+    font-weight: 400;
+}
+a {
+    text-decoration: none;
+}
+.btn {
+    cursor: pointer;
+    color: #fff;
+    background: #169df6;
+    padding: 20px;
+    width: 200px;
+    border-radius: 10px;
+    border: none;
+    transition: 0.2s all;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+
+}
+.btn.navigation {
+    width: 100px;
+    height: 50px;
+}
+.btn:hover {
+    background: #000;
+}
+
+/* Quiz styles */
+
+form {
+    width: 600px;
+    height: 70vh;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.question_form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    gap: 20px;
+
+}
+.question_block {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+.question_block h2 {
+    margin-bottom: 20px;
+}
+
+
+.option_box [type='radio'] {
+    display: none;
+}
+
+.option_box + .option_box {
+    margin-top: 15px;
+}
+.option_box label {
+    display: block;
+    padding: 20px 60px;
+    background: #fff;
+    border: 2px solid rgb(188, 188, 188);
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 400;
+    min-width: 300px;
+    white-space: nowrap;
+    position: relative;
+}
+
+.option_box label::after,
+.option_box label::before {
+    content: "";
+    position: absolute;
+    border-radius: 50%;
+}
+
+.option_box label::after {
+    height: 20px;
+    width: 20px;
+    border: 2px solid #000;
+    left: 20px;
+    top: calc(50% - 12px);
+}
+.option_box label::before {
+    background: #000;
+    height:10px;
+    width: 10px;
+    left: 26.5px;
+    top: calc(50% - 5.5px);
+    transform: scale(5);
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.4s all;
+}
+
+.option_box [type="radio"]:checked ~ label {
+    border-color: #000;
+}
+.option_box [type="radio"]:checked ~ label:before {
+    opacity: 1;
+    visibility: visible;
+    transform: scale(1);
+}
+.buttons {
+    display: flex;
+    gap: 20px;
+}
+.hidden {
+    display: none;
+  }
+.results {
+    font-size: 25px;
+}
+
+@media screen and (max-width:600px) {
+    form {
+        width: 80vw;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    .option_box label {
+        min-width: 250px;
+        transform: translateX(-70px);
+    }
+    .question_form {
+        padding: 0;
+    }
+    .options {
+        width: 100px;
+    }
+    
+}

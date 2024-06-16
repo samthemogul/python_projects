@@ -1,0 +1,22 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Quiz Game</title>
+    <meta name="description" content="Quiz Game with Flask">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+    <h1>Countries Quiz</h1>
+
+    {% block content %}
+    <h3>Click Button to start quiz</h3>
+
+    <!-- Link to the quiz page -->
+    
+    <a href="/quiz"><button type="button" class="btn">Start</button></a>
+    {% endblock %}
+
+    <script src="{{ url_for('static', filename='script.js')}}"></script>
+  </body>
+</html>

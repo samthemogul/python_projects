@@ -1,0 +1,131 @@
+<!-- product detail page -->
+{% extends "shared/base.html" %}
+<!-- title -->
+{% block title %}{{product.name | truncate(20,false,'...') }}{% endblock %}
+<!-- rest of page is body -->
+{% block body %}
+
+{% include "shared/categories.html" %}
+
+<div class="m-auto py-4 max-w-screen-xl bg-white">
+  <div class="grid grid-cols-8">
+    <div class="flex flex-col col-span-3 sticky top-2">
+      <div class="flex max-h-screen">
+        <ul class="flex flex-col m-4">
+          {% for image in product.images %}
+          <li class="p-2 aspect-square hover:ring-2 hover:ring-blue-500 cursor-pointer">
+            <img class="h-16 object-contain object-top" src="{{image.url}}" />
+          </li>
+          {% endfor %}
+        </ul>
+        <img class="aspect-[3/4] max-h-128 object-cover object-top bg-gray-200" src="{{product.images[0].url}}" />
+      </div>
+      <div class="flex w-full justify-evenly mx-2 my-4">
+        <button class="bg-orange-400 text-white uppercase font-semibold m-2 py-4 px-8 w-full">🛒 Add to cart</button>
+        <button class="bg-orange-500 text-white uppercase font-semibold m-2 py-4 px-8 w-full">⚡️ Buy now</button>
+      </div>
+    </div>
+
+    <div class="flex flex-col col-span-5 mx-12">
+      <div class="flex w-full gap-2">
+        {% for category in product.categories %}
+        <div class="text-xs text-gray-500 flex gap-2">
+          <div class="inline-block max-w-[96px] truncate align-bottom hover:max-w-none">
+            <a class="hover:text-blue-500 "href="{{ url_for('search', category=category.name)}}">{{category.name}}</a>
+          </div>
+          <div class="inline-block">
+            &gt;
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+
+      <div class="my-2">
+        <div class="text-gray-500 font-medium">{{ product.brands[0].name }}</div>
+        <h1 class="text-lg">{{ product.name }}</h1>
+      </div>
+
+      <div>
+        <div class="text-green-600 text-sm font-medium">Special Price</div>
+        <span class="text-3xl font-semibold">₹{{ product.discounted_price }}</span>
+        <span class="text-base text-gray-500 line-through px-2">₹{{ product.retail_price }}</span>
+        {% if product.discounted_price is number and product.retail_price is number %}
+        <span class="text-green-600 font-medium px-2">
+          {{ (100 * (1 - product.discounted_price / product.retail_price)) | round | int }}% off
+        </span>
+        {% endif %}
+      </div>
+
+        {% if product.rating is number %}
+        <div>
+          <span class="bg-green-700 text-white text-xs rounded-sm px-2 py-0.5">{{ product.rating }} ★</span>
+        </div>
+        {% endif %}
+
+        {% if product.flipkart_advantage == 'true' %}
+          <div>
+            <span class="bg-blue-500 text-white text-xs italic pr-2 font-semibold rounded-md">
+              <span class="bg-yellow-500 text-blue-500 text-xs rounded-xl border-2 border-blue-500 p-1 font-bold">Fk</span>
+              Assured
+            </span>
+           </div>
+         {% endif %}
+
+      <div class="my-4">
+        <h3 class="font-semibold">Available Offers</h3>
+        <ul>
+        {% set offers = [
+          ("Special Price", "Get extra 35% off (price inclusive of cashback/coupon)", "T&C"),
+          ("Special Price", "Get extra 9% off (price inclusive of cashback/coupon)", "T&C"),
+          ("Combo Offer", "Buy 2 items save 5%; Buy 3 or more save 10%See all products", "T&C"),
+          ("Bank Offer", "Flat ₹100 Instant Cashback on Paytm Wallet. Min Order Value ₹1000. Valid once per Paytm account", "T&C"),
+          ("Bank Offer", "5% Cashback on Flipkart Axis Bank Card", "T&C"),
+          ("Bank Offer", "10% off on AU Bank Credit Card Transactions", "up to ₹1,500. On orders of ₹10,000 and above, T&C"),
+          ("Bank Offer", "10% off on Indian Bank Mastercard Debit Cards up to ₹250. On orders of ₹2000 and above", "T&C"),
+          ("Bank Offer", "5% Cashback on Flipkart Axis Bank Card", "T&C"),
+          ("","Buy this Product and Get Extra ₹500 Off on Two-Wheelers", "Know More"),
+          ("Partner Offer", "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*", "Know More"),
+          ("", "No Cost EMI on Bajaj Finserv EMI Card on cart value above ₹2999", "View Plans"),
+          ("", "No Cost EMI on Bajaj Finserv EMI Card on cart value above ₹2999", "View Plans"),
+          ("Partner Offer", "Purchase now & get a surprise cashback coupon till November 2023", "Know More"),
+        ] %}
+        {% for _i in range(5) %}
+        {% set offer = offers|random %}
+        <li class="text-sm my-2">
+          <span class="text-green-600">◽️</span>
+          <span class="font-bold">{{offer.0}}</span>
+          <span class="">{{offer.1}}</span>
+          <a class="font-bold text-blue-500" href="#">{{offer.2}}</a>
+        </li>
+        {% endfor %}
+      </div>
+
+      <div>
+        <h4 class="text-gray-500 font-semibold text-sm mt-4">📍 Deliver to</h4>
+        <input class="font-bold text-sm border-0 border-b-2 border-b-blue-500" type="text" placeholder="Enter Delivery Pincode" />
+        <button class="font-bold text-sm">Check</button>
+        <div class="mt-4 text-sm font-semibold">
+          <span class="font-semibold">Delivery By Tomorrow</span>
+          |
+          <span class="text-green-600">Free</span>
+          <span class="line-through text-gray-400">₹40</span>
+        </div>
+        <div class="text-xs">if ordered before 6:29am</div>
+        <div class="cursor-pointer text-blue-500 font-semibold text-sm my-2">View Details</div>
+      </div>
+
+      <div class="my-4">
+        <h4 class="text-gray-500 font-semibold text-sm">Seller</h4>
+        {% for brand in product.brands %}
+        <div>
+          <a class="text-blue-500" href="{{url_for('search', brand=brand.name)}}">
+          {{ brand.name }}
+          </a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}

@@ -1,0 +1,28 @@
+{% extends 'index.html' %}
+
+{% block content %}
+<form action="/submit" method="post">
+
+    <div class="question_form">
+        {% for question in questions %}
+        <!-- Individual quiz questions and options -->
+
+        <div class="question_block{% if question['id'] != 1 %} hidden{% endif %}" id="q-{{ question['id'] }}">
+            <h2 class="question">{{ question["text"] }}</h2>
+            <div class="options">
+                {% for option in question["options"] %}
+                <div class="option_box">
+                    <input type="radio" name="{{ question['text'] }}" id="{{ option }}" value="{{ option }}"><label for="{{ option }}">{{ option }}</label>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        {% endfor %}
+        <div class="buttons">
+            <button type="button" id="next" class="btn navigation">Next</button>
+            <button type="submit" id="submit" class="btn navigation">Submit</button>
+        </div>
+    </div>
+</form>
+
+{% endblock %}

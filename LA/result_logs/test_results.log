@@ -1,0 +1,9 @@
+Test Type: Performance Result: PASS Description: Check temperature of the room
+Test Type: Functional Result: FAIL Description: Check for gas leakage
+Test Type: System Result: PASS Description: End to end flow to check all components
+Test Type: Performance Result: PASS Description: Response time
+Test Type: Functional Result: FAIL Description: Delays at specific components
+Test Type: System Result: FAIL Description: New components integration
+Test Type: Performance Result: FAIL Description: User navigation
+Test Type: Performance Result: FAIL Description: standalone component check
+Test Type: System Result: PASS Description: End to end integration
